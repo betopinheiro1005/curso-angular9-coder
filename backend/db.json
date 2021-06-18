@@ -1,0 +1,29 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Caneta BIC Preta - Escrita fina",
+      "price": "3.65"
+    },
+    {
+      "id": 2,
+      "name": "Notebook Mac Pro",
+      "price": 12000.89
+    },
+    {
+      "id": 3,
+      "name": "Sansung S20+",
+      "price": 5000.89
+    },
+    {
+      "name": "Geladeira",
+      "price": "1890.44",
+      "id": 4
+    },
+    {
+      "name": "Liquidificador",
+      "price": "120.46",
+      "id": 5
+    }
+  ]
+}
